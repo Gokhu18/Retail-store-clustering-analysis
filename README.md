@@ -8,12 +8,12 @@ Final deliverables required for this project end solution are SAS scripts used t
 File needed for the assignment is retailerclustering_data.csv which has 515 observations and 8 variables.
 
 Data Dictionary (column names in sequential order)
--Store Num: Unique identifier for each store
--Cat 1 -4: Sales by category (in 000 Rs)
--Cat 1: Fresh foods category
--Cat 2: Frozen Foods
--Cat 3: Health and beauty
--Cat 4: Tobacco and alcohol
--Size: Area of store (in sq ft)
--Sale: Total sales of the store
--State: Location of store
+- Store Num: Unique identifier for each store
+- Cat 1 -4: Sales by category (in 000 Rs)
+- Cat 1: Fresh foods category
+- Cat 2: Frozen Foods
+- Cat 3: Health and beauty
+- Cat 4: Tobacco and alcohol
+- Size: Area of store (in sq ft)
+- Sale: Total sales of the store
+- State: Location of store
